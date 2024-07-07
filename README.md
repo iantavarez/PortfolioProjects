@@ -1,1 +1,6 @@
-# iantavarez.github.io
+# Data Analyst
+
+### Education 
+Economics, B.A.
+
+### Personal Projects
