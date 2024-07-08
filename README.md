@@ -6,7 +6,7 @@ Hello! My name is Ian Tavarez and I am a recent graduate from UC Santa Barbara w
 ### Education 
 - B.A., Economics | University of California, Santa Barbara (_June 2024_)
 
-## Personal Projects(project-nba-mvp-predictor/README.md)
+## [Personal Projects](project-nba-mvp-predictor/README.md)
 ### NBA MVP Predictor
 
 
@@ -14,4 +14,4 @@ Developed and implemented a machine learning model to predict the NBA MVP using 
 
 ### Contact
 - **Email:** skymort2002@gmail.com
-- **LinkedIn:** Ian Tavarez(https://www.linkedin.com/in/ian-tavarez/)
+- **LinkedIn:** [Ian Tavarez](https://www.linkedin.com/in/ian-tavarez/)
