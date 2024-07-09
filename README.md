@@ -1,5 +1,8 @@
+---
+title: Data Analysis Portfolio by Ian Tavarez
+---
 
-# Introduction
+## Introduction
 Hello! My name is Ian Tavarez and I am a recent graduate from UC Santa Barbara with a degree in Economics and a passion for data! I've always been fascinated by numbers and statistics ever since I was a kid trying to memorize what basketball players averaged. My curiosity and studies in Economics helped develop my ability to think critically and solve problems. Taking Econometrics and other classes in the statistics department strengthened these skills and truly awakened my love for data. 
 
 #### Technical Skills: Python, SQL, R, Excel
