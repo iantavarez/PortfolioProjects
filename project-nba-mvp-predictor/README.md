@@ -19,7 +19,7 @@ The dataset for predicting the NBA MVP was webscraped from Basketball-Reference.
 3. **Modeling:** The predictive model for the NBA MVP was implemented using ridge regression from scikit-learn. The model's accuracy was evaluated using the average precision score, achieving a final accuracy of approximately 81.5%.
 
 ## Results
-blah blah blah cool stuff blah blah
+WIP
 
 ## Conclusion
-this project was super epic and awesome. 
+WIP
