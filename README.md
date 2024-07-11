@@ -1,5 +1,5 @@
 
-Hello! My name is Ian Tavarez and I am a recent graduate from UC Santa Barbara with a degree in Economics and a passion for data! I've always been fascinated by numbers and statistics ever since I was a kid trying to memorize what basketball players averaged. My curiosity and studies in Economics helped develop my ability to think critically and solve problems. Taking Econometrics and other classes in the statistics department strengthened these skills and truly awakened my love for data. 
+Hello! My name is Ian Tavarez, and I am a recent graduate from UC Santa Barbara with a degree in Economics and a passion for data. My fascination with numbers and statistics began in childhood, as I tracked basketball player averages. This early interest evolved into a love for data analysis and problem-solving through my studies in Economics. Courses in Econometrics and statistics sharpened my analytical skills and solidified my enthusiasm for data. Now, I am eager to apply my knowledge in real-world scenarios and embark on a career in data analysis. In my free time, I enjoy playing chess and guitar, and I remain an avid NBA fan. I look forward to leveraging my skills and passion to contribute to innovative data-driven projects. 
 
 #### Technical Skills: Python, SQL, R, Excel
 
