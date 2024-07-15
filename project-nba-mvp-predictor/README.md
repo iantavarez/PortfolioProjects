@@ -1,4 +1,4 @@
-# NBA MVP Predictor [View in Github](https://github.com/iantavarez/iantavarez.github.io/blob/main/project-nba-mvp-predictor/NBA%20MVP%20Predictor.ipynb)
+# NBA MVP Predictor [(View in Github)](https://github.com/iantavarez/iantavarez.github.io/blob/main/project-nba-mvp-predictor/NBA%20MVP%20Predictor.ipynb)
 
 ## Objective
 The objective of this data analysis project is to develop a predictive model for identifying the most likely candidate for the NBA Most Valuable Player (MVP) award. By analyzing historical player performance data, team statistics, and other relevant factors, the goal is to create a robust and accurate algorithm that can forecast the MVP winner for the current NBA season. This model aims to provide insights into the key metrics that influence MVP selection and to enhance the understanding of what makes an MVP-caliber season.
